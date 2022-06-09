@@ -1,0 +1,13 @@
+{
+  "name": "pruebanode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "prueba": "node index.js",  	
+   "prueba2": "node src/hola.js", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sebastian Tejada",
+  "license": "ISC"
+}
